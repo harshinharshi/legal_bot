@@ -1,0 +1,7 @@
+langchain-text-splitters 
+langchain-community 
+langgraph
+langchain_groq
+langchain-huggingface
+langchain_core
+langchain_huggingface
